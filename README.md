@@ -1,6 +1,12 @@
 # sqlite_app
 
-A new Flutter project.
+An idea of communication tool between teachers and students.
+This app has been created using flutter and sqflite.
+
+![](https://github.com/ElmouradiAmine/student-app/blob/master/screenshots/Capture%20d’écran%202019-05-07%20à%2015.11.33.png)
+![](https://github.com/ElmouradiAmine/student-app/blob/master/screenshots/Capture%20d’écran%202019-05-07%20à%2015.12.00.png)
+![](https://github.com/ElmouradiAmine/student-app/blob/master/screenshots/Capture%20d’écran%202019-05-07%20à%2015.12.16.png)
+![](https://github.com/ElmouradiAmine/student-app/blob/master/screenshots/Capture%20d’écran%202019-05-07%20à%2015.12.30.png)
 
 ## Getting Started
 
